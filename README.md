@@ -3,16 +3,6 @@
 ## Project Overview
 This project focuses on the task of identifying authors in Persian literature by using fine-tuned BERT language models. The dataset comprises texts from 10 authors in the same genre, and the models are evaluated through 5-fold cross-validation, yielding various performance metrics. The project also compares the results with traditional machine learning techniques.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Experiments](#experiments)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
-
 ## Dataset
 The dataset includes texts from 10 different Persian authors writing in the same genre. Each author has 30 documents, each containing exactly 500 words. Metadata includes:
 - **Author Name**: The name of the author.
